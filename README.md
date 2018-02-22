@@ -197,6 +197,10 @@ The documentation for the Angular CLI is located in this repo's [wiki](https://g
 
 MIT
 
+# Donation
+
+Bitcoin: 1JpKyCj6edEunhTsQNumsL5JDR6dMSqav5
+
 
 [travis-badge]: https://travis-ci.org/angular/angular-cli.svg?branch=master
 [travis-badge-url]: https://travis-ci.org/angular/angular-cli
